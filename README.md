@@ -1,2 +1,2 @@
-# fay.github.io
+# faylearning.github.io
 My homepage
